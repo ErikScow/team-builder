@@ -62,7 +62,7 @@ const Form = (props) => {
                 name='role'
                 onChange={changeHandler}>
 
-                <option value='0'>Choose</option>
+                <option value='Undetermined'>Choose</option>
                 <option value='Designer'>Designer</option>
                 <option value='Frontend Developer'>Frontend Developer</option>
                 <option value='Backend Developer'>Backend Developer</option>
